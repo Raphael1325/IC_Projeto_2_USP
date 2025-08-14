@@ -24,7 +24,7 @@ Este trabalho foi reconhecido por sua excelência, sendo apresentado em eventos 
 ## Relatórios e Pôsteres
 
 **Relatórios:**
-* [Relatório Final](caminho/para/o/relatorio_final.pdf)
+* [Relatório Final](documentos/Relatorio/relatório_2_IC.pdf)
 
 **Pôsteres:**
 * [Pôster do Congresso XPTO](caminho/para/o/poster.pdf)

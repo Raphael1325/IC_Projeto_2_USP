@@ -1,2 +1,5 @@
-#Analise Origin
-Nesta seção você encontrá alguns arquivos Origins com analise de dados experimentais para estudo da largura de pico devido a desvios sistemáticos da maquina. 
+## Análise no Origin
+
+Nesta seção, você encontrará alguns arquivos do **Origin** com análises de dados experimentais, utilizados para estudar a largura dos picos decorrentes de desvios sistemáticos da máquina.  
+
+Para reproduzir ou acompanhar a análise, é necessário ter o **Origin** instalado em sua máquina, de modo a compreender a metodologia empregada de forma iterativa.
